@@ -1,0 +1,5 @@
+package br.com.luiz.geometrica.entities;
+
+public abstract class Figura3D extends FiguraGeometrica{
+
+}

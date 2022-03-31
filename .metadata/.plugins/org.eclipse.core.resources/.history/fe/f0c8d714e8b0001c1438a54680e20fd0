@@ -1,0 +1,6 @@
+package br.com.luiz.geometrica.entities;
+
+public interface DimensaoSuperficial {
+	
+	double calcularArea(); // public abstract remove por ser pleonasmo
+}

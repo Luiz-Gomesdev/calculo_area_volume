@@ -1,0 +1,23 @@
+package br.com.luiz.geometrica.application;
+
+import br.com.luiz.geometrica.entities.Circulo;
+import br.com.luiz.geometrica.entities.Quadrado;
+import br.com.luiz.geometrica.entities.Triangulo;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Quadrado q1 = new Quadrado();
+		q1.setLado(2);
+		
+		Circulo c1 = new Circulo();
+		c1.setRaio(2);
+		
+		Triangulo t1 = new Triangulo();
+		t1.setAltura(2);
+		t1.setBase(3);
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package br.com.luiz.geometrica.entities;
+
+public class FiguraGeometrica {
+	
+	private String nome;
+	private String cor;
+	
+	
+
+}
